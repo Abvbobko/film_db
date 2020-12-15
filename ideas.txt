@@ -1,0 +1,7 @@
+ideas:
+
+functions:
+- get top 100 films
+- delete from friends
+- get film average score
+- get days to премьера
